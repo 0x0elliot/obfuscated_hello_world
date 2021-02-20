@@ -1,5 +1,5 @@
 # obfuscated hello world
-An on-going project where I try to obfuscate hello world program as much as possible. It's obfuscated but in a single line. It's a simple concept so i will leave that there.
+An on-going project where I try to obfuscate hello world program as much as possible. It's obfuscated but in a single line. The idea is trying to fit in as much obfuscation as possible in a single line of code.
 <hr>
 
 <h2>One line version:</h2>
